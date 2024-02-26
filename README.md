@@ -19,7 +19,7 @@
 - `pkg install python`
 - `pip install requests`
 - `pip install mechanize`
-- `rm -rf CRACK-FB`
+- `rm -rf crack-fb`
 - `git clone https://github.com/Reza-XD/crack-fb`
 - `cd crack-fb`
 - `python FbV1.py`
